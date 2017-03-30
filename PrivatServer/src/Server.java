@@ -2,6 +2,10 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
 
+/**
+ * Класс, который создает слушатель и подключает клиентов
+ * @author Roman Gorbunov
+ */
 public class Server {
 
     static private int port = 9856;
