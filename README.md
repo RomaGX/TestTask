@@ -1,8 +1,7 @@
 # TestTask
 
+_Автор:_ _Горбунов_ _Роман_
 ### Контактные данные:
-
-Горбунов Роман
 
 * **e-mail**: romagx16@gmail.com
 * **skype**: romang.ru
